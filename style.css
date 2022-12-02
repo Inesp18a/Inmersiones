@@ -5,3 +5,11 @@ a:visited {
 a:active {
     color: gold;
 }
+a:hover {
+    color:rgb(243, 255, 77);
+    background-color: rgba(88, 76, 201, 0.747);
+    padding: 10px;
+    margin: 50px;
+    border: 3px solid rgb(250, 246, 8);
+    font-family:impact;
+  }
