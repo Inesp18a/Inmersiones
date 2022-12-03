@@ -1,5 +1,5 @@
 a:visited {
-    color: rgb(205, 0, 68);
+    color: rgb(0, 205, 144);
 }
 
 a:active {
@@ -20,3 +20,4 @@ a:hover {
 .final{
     color:rgba(186, 16, 201, 0.925)
 }
+body {background-color: steelblue;}
